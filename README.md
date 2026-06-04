@@ -354,7 +354,7 @@ python numpy_advanced.py
 
 ---
 
-# Technologies Used
+# Technologies Used for day5
 
 * Python
 * Pandas
@@ -367,7 +367,7 @@ python numpy_advanced.py
 ---
 
 
-# Technologies Used
+# Technologies Used for day7
 
 * Python
 * NumPy
