@@ -354,6 +354,21 @@ python numpy_advanced.py
 
 ---
 
+# Technologies Used for Day 3
+
+* Python
+* Variables and Data Types
+* User Input
+* Conditional Statements
+* Arithmetic Operations
+* Loops
+* Functions
+* String Manipulation
+* Dictionaries
+
+---
+
+
 # Technologies Used for day5
 
 * Python
@@ -365,7 +380,6 @@ python numpy_advanced.py
 * Type Hints
 
 ---
-
 
 # Technologies Used for day7
 
