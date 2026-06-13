@@ -406,6 +406,226 @@ python numpy_advanced.py
 
 ---
 
+
+# ASSIGNMENT 1
+
+# Sales Data Analysis Project
+
+## Project Overview
+
+This project demonstrates end-to-end data analysis using Python, Pandas, SQL, and data visualization techniques.
+
+The analysis is performed on three datasets:
+
+- Customers Data
+- Products Data
+- Orders Data
+
+The objective of the project is to clean the data, perform exploratory analysis, generate business insights, visualize trends, and answer business questions using SQL queries.
+
+---
+
+## Project Files
+
+### customers.csv
+Contains customer information such as:
+
+- Customer ID
+- Customer Name
+- Region
+- Segment
+
+### products.csv
+Contains product information such as:
+
+- Product ID
+- Product Name
+- Category
+- Price
+
+### orders.csv
+Contains transaction details such as:
+
+- Order ID
+- Customer ID
+- Product ID
+- Quantity
+- Order Date
+
+### audit.py
+Main Python script containing:
+
+- Data Loading
+- Data Auditing
+- Data Cleaning
+- GroupBy Analysis
+- Revenue Calculations
+- Pivot Tables
+- Data Visualization
+- SQLite Integration
+- SQL Query Execution
+
+### queries.sql
+Contains SQL queries used for business analysis.
+
+### sales.db
+SQLite database created from the CSV files.
+
+---
+
+## Tasks Performed
+
+### Task 1: Data Audit
+
+Performed an initial audit of all datasets by checking:
+
+- Dataset shape
+- Column names
+- Data types
+- Missing values
+- Summary statistics
+
+---
+
+### Task 2: Data Cleaning
+
+Data cleaning steps included:
+
+- Standardizing column names
+- Converting date columns to proper datetime format
+- Checking missing values
+- Checking duplicate records
+
+---
+
+### Task 3: GroupBy Analysis
+
+Used Pandas GroupBy operations to analyze:
+
+- Revenue by Category
+- Revenue by Region
+- Revenue by Customer Segment
+- Multi-level GroupBy Analysis
+
+---
+
+### Task 4: Business Metrics
+
+Calculated key business metrics:
+
+- Total Revenue
+- Average Order Value (AOV)
+- Product Revenue
+- Top Selling Products
+
+---
+
+### Task 5: Pivot Table Analysis
+
+Created pivot tables for:
+
+- Region vs Category Revenue
+- Segment vs Category Revenue
+- Month vs Category Revenue
+
+---
+
+### Task 6: Data Visualization
+
+Created multiple visualizations including:
+
+- Histogram
+- Scatter Plot
+- Bar Chart
+- Line Chart
+- Box Plot
+- Heatmap
+
+These visualizations help identify trends and patterns in sales performance.
+
+---
+
+### Task 7: Business Insights
+
+Key insights identified:
+
+- Electronics is the highest revenue-generating category.
+- Laptop is the top-performing product.
+- North region generates the highest revenue.
+- Consumer segment contributes the most revenue.
+- January recorded the highest monthly revenue.
+
+---
+
+### Task 8: SQL Analysis
+
+Created and executed SQL queries using SQLite.
+
+Concepts covered:
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+- JOIN Operations
+- Subqueries
+
+SQL was used to answer important business questions and validate analysis results.
+
+---
+
+### Task 9: Pandas vs SQL Comparison
+
+Compared the use of Pandas and SQL in data analysis workflows.
+
+- SQL is efficient for querying structured databases.
+- Pandas provides flexibility for data cleaning, transformation, analysis, and visualization.
+- Both tools complement each other in real-world analytics projects.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- SQLite
+- Matplotlib
+- Seaborn
+- VS Code
+
+---
+
+## Key Results
+
+- Total Revenue: ₹171,000
+- Average Order Value: ₹34,200
+- Highest Revenue Category: Electronics
+- Top Product: Laptop
+- Highest Revenue Region: North
+- Highest Revenue Segment: Consumer
+
+---
+
+## How to Run the Project
+
+1. Place all CSV files in the project folder.
+2. Open the project in VS Code.
+3. Run the Python script:
+
+```bash
+python audit.py
+```
+
+4. Review the generated outputs, visualizations, and SQL query results.
+
+---
+
+## Conclusion
+
+This project demonstrates a complete data analysis workflow including data auditing, cleaning, transformation, visualization, business intelligence reporting, and SQL-based analysis. The project highlights how Python and SQL can be used together to derive meaningful insights from business data.
+
+
 # Author
 
 **Kanishka**
