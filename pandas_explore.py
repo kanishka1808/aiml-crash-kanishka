@@ -1,4 +1,4 @@
-# day5 task7 -- Exploring Student Data using Pandas
+# day5 task7-- pandas
 
 import pandas as pd
 
