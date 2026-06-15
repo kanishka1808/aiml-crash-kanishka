@@ -626,6 +626,28 @@ python audit.py
 This project demonstrates a complete data analysis workflow including data auditing, cleaning, transformation, visualization, business intelligence reporting, and SQL-based analysis. The project highlights how Python and SQL can be used together to derive meaningful insights from business data.
 
 
+---
+
+
+# AI/ML Crash Course Practice Repository
+
+## Assignment 2: Maths for Machine Learning and EDA
+
+This assignment covers fundamental mathematical concepts used in Machine Learning along with Exploratory Data Analysis (EDA).
+
+### Files
+
+- `assignment2/housing_eda.py`
+- `assignment2/maths_eda.py`
+
+### Open Assignment
+
+Go to the `assignment2` folder to view the complete documentation.
+
+
+---
+
+
 # Author
 
 **Kanishka**
