@@ -629,9 +629,7 @@ This project demonstrates a complete data analysis workflow including data audit
 ---
 
 
-# AI/ML Crash Course Practice Repository
-
-## Assignment 2: Maths for Machine Learning and EDA
+# Assignment 2: Maths for Machine Learning and EDA
 
 This assignment covers fundamental mathematical concepts used in Machine Learning along with Exploratory Data Analysis (EDA).
 
