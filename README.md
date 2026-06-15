@@ -638,7 +638,7 @@ This assignment covers fundamental mathematical concepts used in Machine Learnin
 - `assignment2/housing_eda.py`
 - `assignment2/maths_eda.py`
 
-###  Assignment
+### Open Assignment
 
 Go to the `assignment2` folder to view the complete documentation.
 
