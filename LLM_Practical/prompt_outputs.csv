@@ -1,0 +1,30 @@
+Prompt No,Prompt,Output
+1,Summarize the text.,"Artificial Intelligence (AI) is revolutionizing healthcare by assisting doctors with tasks like disease diagnosis, medical image analysis, and patient risk prediction. It also aids in developing better treatment plans and accelerating drug discovery. Furthermore, AI contributes to improving overall hospital efficiency and patient care."
+2,Summarize the text in exactly 50 words.,"AI revolutionizes healthcare by aiding disease diagnosis, image analysis, and risk prediction. It optimizes treatment plans, accelerates drug discovery, and boosts hospital efficiency. Ultimately, AI enhances patient care through these advancements."
+3,Summarize the text using bullet points.,"Here's a summary of the text in bullet points:
+
+*   AI is transforming healthcare.
+*   AI assists doctors in diagnosing diseases.
+*   AI analyzes medical images.
+*   AI predicts patient risks.
+*   AI improves treatment planning.
+*   AI aids in drug discovery.
+*   AI helps hospitals improve efficiency and patient care."
+4,Explain the text for a 10-year-old child.,"Imagine you have a super-smart helper who's really good at understanding things and making predictions. That's kind of what Artificial Intelligence, or **AI**, is for doctors and hospitals!
+
+Here's how it helps:
+
+*   **Spotting Sickness:** Sometimes, diseases can be tricky to find. AI can look at lots of information, like a doctor's notes or even the tiny details in a picture of your body (like an X-ray), and help doctors figure out if you're sick and what might be wrong. It's like having a super-detective for illnesses!
+
+*   **Looking at Pictures:** Think of a doctor looking at a picture of your insides to see if everything is okay. AI can help them by pointing out anything that looks a little unusual, making sure they don't miss anything important.
+
+*   **Guessing What Might Happen:** AI can look at how someone has been feeling and guess if they might get sick in the future or if they need extra help. This helps doctors be ready to take care of them.
+
+*   **Making the Best Plan:** When someone needs medicine or a special treatment, AI can help doctors choose the very best plan to help them get better. It's like planning the perfect strategy to win a game!
+
+*   **Finding New Medicines:** Discovering new medicines to fight sickness is hard work. AI can help scientists by looking at tons of information to find new ideas for medicines much faster.
+
+*   **Making Hospitals Run Smoother:** AI can also help hospitals work better, like making sure there are enough nurses or that appointments are scheduled perfectly. This means patients get the best care and can feel better sooner!
+
+So, basically, AI is a smart tool that helps doctors and hospitals be even better at keeping people healthy and happy!"
+5,Extract only the important keywords from the text.,"Artificial Intelligence, AI, healthcare, doctors, diagnose diseases, analyzing medical images, predicting patient risks, improving treatment planning, drug discovery, hospitals, improve efficiency, patient care."
